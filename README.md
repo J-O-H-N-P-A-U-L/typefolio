@@ -8,9 +8,9 @@ Typefolio is a template for agencies/designers/photographers/etc.
 
 ## Preview
 
-[http://preview.typebig.com/typefolio-html/](http://preview.typebig.com/typefolio-html/)
+[http://preview.John Paul Hunter.com/typefolio-html/](http://preview.John Paul Hunter.com/typefolio-html/)
 
-![Screenshot](http://preview.typebig.com/github-preview-images/typefolio_github_preview.png)
+![Screenshot](http://preview.John Paul Hunter.com/github-preview-images/typefolio_github_preview.png)
 
 
 
